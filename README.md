@@ -5,7 +5,7 @@ PicoStreamer is a MICROSCOPIC* "YouTube Downloader", which connects to a video s
 *the main script (found in the linux & mac source release) is only 786 bytes, and that is less than a thousandth of a MB (megabyte)!
 
 #How to use:
-1. Download, extract and run the program (give it some extra time on the first run)
+1. [Download](https://github.com/CenTdemeern1/picostreamer/releases/tag/1.0), extract and run the program (give it some extra time on the first run)
 
 2. When it asks for videos;
 	1. give it a single YouTube video URL (YouTube video link)
