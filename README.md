@@ -31,3 +31,10 @@ On Android: Use [QPython 3](https://play.google.com/store/apps/details?id=org.qp
 On IOS: [Use Pythonista 3](https://itunes.apple.com/us/app/pythonista-3/id1085978097?ls=1&mt=8) (which sadly costs money), and Download [the Linux-macos-source release](https://github.com/CenTdemeern1/picostreamer/releases/download/1.0/linux-macos-1.0-source-picostreamer.py)
 
 Then follow the how to use instructions for PC.
+
+
+
+
+Responsibility notes:
+I am in no way responsible for any damage done by or illegal abuse of the program or anything else on that subject.
+All responsibility is on the user.
