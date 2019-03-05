@@ -2,7 +2,7 @@
 
 PicoStreamer is a MICROSCOPIC* "YouTube Downloader", which connects to a video stream (because YouTube streams videos like Spotify), and then puts it into a file.
 
-*the main script (found in the linux & mac source release) is only 860 bytes, and that is less than a thousandth of 1 MB (megabyte)!
+*the main script (found in the linux & mac source release) is only 1.11 kilobytes, and that is about a thousandth of 1 MB (megabyte)!
 
 
 #How to use:
