@@ -12,18 +12,28 @@ for i in inp:
     y=YouTube(i)
     print('downloading',i,y.title)
     try:
-        q=y.streams.filter(file_extension="mp4",resolution='1080p').all()[0]
-        print('now')
+        q=False
+        for st in y.streams.filter(file_extension="mp4",resolution='1080p').all():
+            if st.includes_audio_track:
+                q=st
+                break
+        if q:
+            print('now')
         q.download()
-    except IndexError:
+    except:
         err=True
         r=1080
         while err:
             err=False
             try:
+                q=False
                 r=r-1
-                q=y.streams.filter(file_extension="mp4",resolution=str(r)+'p').all()[0]
-                print('now')
+                for st in y.streams.filter(file_extension="mp4",resolution=str(r)+'p').all():
+                    if st.includes_audio_track:
+                        q=st
+                        break
+                if q:
+                    print('now')
                 q.download()
             except:
                 err=True
