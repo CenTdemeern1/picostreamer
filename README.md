@@ -35,6 +35,5 @@ Then follow the how to use instructions for PC.
 
 
 
-Responsibility notes:
-I am in no way responsible for any damage done by or illegal abuse of the program or anything else on that subject.
-All responsibility is on the user.
+[I am in no way responsible for any damage done by (although i don't know how that would happen) or illegal abuse of the program or anything else on that subject.
+All responsibility is on the user.]
