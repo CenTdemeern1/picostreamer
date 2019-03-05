@@ -12,7 +12,7 @@ Mobile users: go to "FOR MOBILE DEVICES"
 
 PC (Linux, Mac, windows):
 
-1. [Download](https://github.com/CenTdemeern1/picostreamer/releases/tag/1.0), (extract if you downloaded a ZIP file) and run the program (give it some extra time on the first run)
+1. [Download](https://github.com/CenTdemeern1/picostreamer/releases/), (extract if you downloaded a ZIP file) and run the program (give it some extra time on the first run)
 
 2. When it asks for videos;
 	1. give it a single YouTube video URL (YouTube video link)
@@ -26,9 +26,9 @@ PC (Linux, Mac, windows):
 
 #FOR MOBILE DEVICES:
 
-On Android: Use [QPython 3](https://play.google.com/store/apps/details?id=org.qpython.qpy3) and Download [the Linux-macos-source release](https://github.com/CenTdemeern1/picostreamer/releases/download/1.0/linux-macos-1.0-source-picostreamer.py)
+On Android: Use [QPython 3](https://play.google.com/store/apps/details?id=org.qpython.qpy3) and Download [the Linux-macos-source release](https://github.com/CenTdemeern1/picostreamer/releases/)
 
-On IOS: [Use Pythonista 3](https://itunes.apple.com/us/app/pythonista-3/id1085978097?ls=1&mt=8) (which sadly costs money), and Download [the Linux-macos-source release](https://github.com/CenTdemeern1/picostreamer/releases/download/1.0/linux-macos-1.0-source-picostreamer.py)
+On IOS: [Use Pythonista 3](https://itunes.apple.com/us/app/pythonista-3/id1085978097?ls=1&mt=8) (which sadly costs money), and Download [the Linux-macos-source release](https://github.com/CenTdemeern1/picostreamer/releases/)
 
 Then follow the how to use instructions for PC.
 
